@@ -1,5 +1,9 @@
 # 🤖 AI Personal Assistant (n8n + Telegram)
 
+## 🖼️ Workflow Overview
+![Workflow](assets/workflow.png)
+
+
 An AI-powered **personal assistant built with n8n** that interacts via **Telegram** and can:
 
 - 💬 Chat intelligently using OpenAI
